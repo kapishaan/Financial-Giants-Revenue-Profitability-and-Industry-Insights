@@ -16,5 +16,5 @@ An interactive Tableau dashboard analyzing financial performance of the largest 
 - Geographical analysis of revenue.
 - Company ranking table.
 
-  Dashboard can be found below:
+  Dashboard can be found here:
   https://public.tableau.com/shared/DND8PJXTG?:display_count=n&:origin=viz_share_link
