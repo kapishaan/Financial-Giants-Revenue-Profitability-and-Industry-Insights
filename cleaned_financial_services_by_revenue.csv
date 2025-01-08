@@ -1,0 +1,51 @@
+Rank,Company,Industry,Revenue_USD_Million,Net_Income_USD_Million,Total_Assets_USD_Million,Headquarters,Profit_Margin
+1,Transamerica Corporation,Conglomerate,245510,42521,873,United States,17.31945745590811
+2,Ping An Insurance Group,Insurance,191509,20738,1460,China,10.82873389762361
+3,ICBC,Banking,182794,45783,5110,China,25.046226900226486
+4,China Construction Bank,Banking,172000,39282,4311,China,22.838372093023256
+5,Agricultural Bank of China,Banking,153884,31293,4169,China,20.335447479919942
+6,China Life Insurance,Insurance,144589,4648,776,China,3.2146290520025724
+7,Allianz,Insurance,136173,7756,1297,Germany,5.6956959162242145
+8,Bank of China,Banking,134045,27952,3739,China,20.85269872057891
+9,JP Morgan Chase,Banking,129503,29131,3386,United States,22.494459587808777
+10,AXA,Insurance,128011,3605,984,France,2.8161642358859784
+11,Fannie Mae,Investment Services,106437,11805,3985,United States,11.091067955692099
+12,Life Insurance Corporation of India,Insurance,102851,4954,630,India,4.816676551516271
+13,Generali Group,Insurance,97128,1987,667,Italy,2.0457540565027594
+14,Bank of America,Banking,93753,17894,2819,United States,19.08632257101106
+15,Citigroup,Banking,88839,11047,2260,United States,12.43485406184221
+16,People's Insurance Company,Insurance,84290,2903,192,China,3.4440621663305255
+17,Credit Agricole,Banking,82958,3067,2399,France,3.6970515200462883
+18,BNP Paribas,Banking,81632,8052,3045,France,9.863778910231282
+19,HSBC,Banking,80429,5229,2984,United Kingdom,6.501386315881088
+20,Wells Fargo,Banking,80303,3301,1955,United States,4.11068079648332
+21,State Farm,Insurance,78898,3738,299,United States,4.737762680929808
+22,Nippon Life,Insurance,76984,3127,773,Japan,4.061882988672972
+23,Munich Re,Insurance,74074,1379,364,Germany,1.8616518616518616
+24,Dai-ichi Life,Insurance,73841,3431,574,Japan,4.646470118227001
+25,Banco Santander,Banking,73630,9639,1845,Spain,13.091131332337364
+26,MetLife,Insurance,67842,5407,795,United States,7.969989092302704
+27,Bank of Communications,Banking,67605,11409,1639,China,16.875970712225428
+28,Freddie Mac,Investment Services,66228,7326,2627,United States,11.061786555535424
+29,Legal and General Group,Insurance,63324,2061,779,United Kingdom,3.2546901648664015
+30,Brookfield Assest Management,Investment Services,62752,448,343,Canada,0.7139214686384497
+31,Aviva,Insurance,62579,3588,655,United Kingdom,5.733552789274357
+32,China Pacific Insurance,Insurance,61185,3562,271,China,5.821688322301218
+33,China Merchants Bank,Banking,60433,14107,1281,China,23.343206526235665
+34,Zurich Insurance Group,Insurance,59001,3834,439,Switzerland,6.4981949458483745
+35,Manulife Financial,Insurance,58840,4377,691,Canada,7.438817131203263
+36,Prudential Financial,Insurance,57033,448,940,United States,0.7855101432503989
+37,Mitsubishi UFJ Financial Group,Banking,56838,7329,3250,Japan,12.894542383616594
+38,Prudential,Insurance,55973,2118,516,United Kingdom,3.783967269933718
+39,StoneX Group Inc,Investment Services,54139,169,13,United States,0.3121594414377805
+40,Goldman Sachs,Investment Services,53498,9459,1163,United States,17.68103480503944
+41,Industrial Bank,Banking,53313,9655,1209,China,18.110029448727328
+42,Shanghai Pudong Development,Banking,52628,8443,1219,China,16.042790909781864
+43,Morgan Stanley,Investment Services,52047,10996,1115,United States,21.12705823582531
+44,State Bank of India,Banking,51919,3018,662,India,5.812900864808644
+45,Tokio Marine Holdings,Insurance,51516,1526,232,Japan,2.9621865051634444
+46,AIA Group,Insurance,50359,5779,326,China,11.475605154987193
+47,China Mensheng Banking,Banking,49076,4972,1065,China,10.131225038715462
+48,Power Corporation of Canada,Insurance,48183,1525,493,Canada,3.165016707137372
+49,Talanx,Insurance,46788,766,221,Germany,1.6371719244250662
+50,Lloyds Banking Group,Banking,14592,1882,1183,United Kingdom,12.897478070175438
